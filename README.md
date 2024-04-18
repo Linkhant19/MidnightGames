@@ -9,4 +9,4 @@ Game 1: https://github.com/Linkhant19/midnightgames_1
 (html / css / javascript)
 
 Game 2: https://github.com/Linkhant19/midnightgames_2
-(html / css / javascript)
+(html / css / javascript) <-- My Recommendation
