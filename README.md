@@ -10,3 +10,6 @@ Game 1: https://github.com/Linkhant19/midnightgames_1
 
 Game 2: https://github.com/Linkhant19/midnightgames_2
 (html / css / javascript) <-- My Recommendation
+
+Game 3: https://github.com/Linkhant19/midnightgames_3
+(html / css / javascript)
